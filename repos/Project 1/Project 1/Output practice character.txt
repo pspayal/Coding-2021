@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: Practice Characters and strings, Configuration: Debug Any CPU ------
+1>C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\Program.cs(9,20,9,24): warning CS0219: The variable 'num1' is assigned but its value is never used
+1>C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\Program.cs(10,18,10,22): warning CS0219: The variable 'num2' is assigned but its value is never used
+1>C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\Program.cs(11,18,11,22): warning CS0219: The variable 'num3' is assigned but its value is never used
+1>C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\Program.cs(12,18,12,22): warning CS0219: The variable 'num4' is assigned but its value is never used
+1>C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\Program.cs(13,20,13,24): warning CS0219: The variable 'num5' is assigned but its value is never used
+1>Practice Characters and strings -> C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\Practice Characters and strings.dll
+1>Done building project "Practice Characters and strings.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

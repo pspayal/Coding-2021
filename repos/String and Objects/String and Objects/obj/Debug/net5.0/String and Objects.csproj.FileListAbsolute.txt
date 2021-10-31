@@ -1,0 +1,15 @@
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\bin\Debug\net5.0\String and Objects.exe
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\bin\Debug\net5.0\String and Objects.deps.json
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\bin\Debug\net5.0\String and Objects.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\bin\Debug\net5.0\String and Objects.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\bin\Debug\net5.0\String and Objects.dll
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\bin\Debug\net5.0\ref\String and Objects.dll
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\bin\Debug\net5.0\String and Objects.pdb
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\String and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\String and Objects.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\String and Objects.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\String and Objects.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\String and Objects.dll
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\ref\String and Objects.dll
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\String and Objects.pdb
+C:\Users\Payal Swarnkar\source\repos\String and Objects\String and Objects\obj\Debug\net5.0\String and Objects.genruntimeconfig.cache

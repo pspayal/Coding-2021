@@ -1,0 +1,15 @@
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\bin\Debug\net5.0\Exchange Variable value.exe
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\bin\Debug\net5.0\Exchange Variable value.deps.json
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\bin\Debug\net5.0\Exchange Variable value.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\bin\Debug\net5.0\Exchange Variable value.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\bin\Debug\net5.0\Exchange Variable value.dll
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\bin\Debug\net5.0\ref\Exchange Variable value.dll
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\bin\Debug\net5.0\Exchange Variable value.pdb
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\Exchange Variable value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\Exchange Variable value.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\Exchange Variable value.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\Exchange Variable value.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\Exchange Variable value.dll
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\ref\Exchange Variable value.dll
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\Exchange Variable value.pdb
+C:\Users\Payal Swarnkar\source\repos\Exchange Variable value\Exchange Variable value\obj\Debug\net5.0\Exchange Variable value.genruntimeconfig.cache

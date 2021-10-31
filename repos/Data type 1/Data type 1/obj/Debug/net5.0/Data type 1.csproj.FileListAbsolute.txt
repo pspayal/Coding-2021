@@ -1,0 +1,15 @@
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\bin\Debug\net5.0\Data type 1.exe
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\bin\Debug\net5.0\Data type 1.deps.json
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\bin\Debug\net5.0\Data type 1.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\bin\Debug\net5.0\Data type 1.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\bin\Debug\net5.0\Data type 1.dll
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\bin\Debug\net5.0\ref\Data type 1.dll
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\bin\Debug\net5.0\Data type 1.pdb
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\Data type 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\Data type 1.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\Data type 1.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\Data type 1.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\Data type 1.dll
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\ref\Data type 1.dll
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\Data type 1.pdb
+C:\Users\Payal Swarnkar\source\repos\Data type 1\Data type 1\obj\Debug\net5.0\Data type 1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\bin\Debug\net5.0\Project new 1.exe
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\bin\Debug\net5.0\Project new 1.deps.json
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\bin\Debug\net5.0\Project new 1.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\bin\Debug\net5.0\Project new 1.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\bin\Debug\net5.0\Project new 1.dll
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\bin\Debug\net5.0\ref\Project new 1.dll
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\bin\Debug\net5.0\Project new 1.pdb
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.csproj.AssemblyReference.cache
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.dll
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\ref\Project new 1.dll
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.pdb
+C:\Users\Payal Swarnkar\source\repos\Project new 1\Project new 1\obj\Debug\net5.0\Project new 1.genruntimeconfig.cache

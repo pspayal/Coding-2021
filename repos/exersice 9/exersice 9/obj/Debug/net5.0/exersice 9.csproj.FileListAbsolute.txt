@@ -1,0 +1,15 @@
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\bin\Debug\net5.0\exersice 9.exe
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\bin\Debug\net5.0\exersice 9.deps.json
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\bin\Debug\net5.0\exersice 9.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\bin\Debug\net5.0\exersice 9.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\bin\Debug\net5.0\exersice 9.dll
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\bin\Debug\net5.0\ref\exersice 9.dll
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\bin\Debug\net5.0\exersice 9.pdb
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\exersice 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\exersice 9.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\exersice 9.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\exersice 9.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\exersice 9.dll
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\ref\exersice 9.dll
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\exersice 9.pdb
+C:\Users\Payal Swarnkar\source\repos\exersice 9\exersice 9\obj\Debug\net5.0\exersice 9.genruntimeconfig.cache

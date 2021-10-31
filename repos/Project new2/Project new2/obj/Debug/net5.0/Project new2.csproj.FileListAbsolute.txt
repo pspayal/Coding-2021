@@ -1,0 +1,15 @@
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\bin\Debug\net5.0\Project new2.exe
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\bin\Debug\net5.0\Project new2.deps.json
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\bin\Debug\net5.0\Project new2.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\bin\Debug\net5.0\Project new2.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\bin\Debug\net5.0\Project new2.dll
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\bin\Debug\net5.0\ref\Project new2.dll
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\bin\Debug\net5.0\Project new2.pdb
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\Project new2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\Project new2.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\Project new2.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\Project new2.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\Project new2.dll
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\ref\Project new2.dll
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\Project new2.pdb
+C:\Users\Payal Swarnkar\source\repos\Project new2\Project new2\obj\Debug\net5.0\Project new2.genruntimeconfig.cache

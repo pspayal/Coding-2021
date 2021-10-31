@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Practice Characters and strings/1.0.0": {
+        "runtime": {
+          "Practice Characters and strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice Characters and strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

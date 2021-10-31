@@ -1,0 +1,16 @@
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\bin\Debug\net5.0\boolean.exe
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\bin\Debug\net5.0\boolean.deps.json
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\bin\Debug\net5.0\boolean.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\bin\Debug\net5.0\boolean.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\bin\Debug\net5.0\boolean.dll
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\bin\Debug\net5.0\ref\boolean.dll
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\bin\Debug\net5.0\boolean.pdb
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.dll
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\ref\boolean.dll
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.pdb
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.genruntimeconfig.cache
+C:\Users\Payal Swarnkar\source\repos\boolean\boolean\obj\Debug\net5.0\boolean.csproj.AssemblyReference.cache

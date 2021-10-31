@@ -1,0 +1,16 @@
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\bin\Debug\net5.0\Oops4.exe
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\bin\Debug\net5.0\Oops4.deps.json
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\bin\Debug\net5.0\Oops4.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\bin\Debug\net5.0\Oops4.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\bin\Debug\net5.0\Oops4.dll
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\bin\Debug\net5.0\ref\Oops4.dll
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\bin\Debug\net5.0\Oops4.pdb
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.dll
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\ref\Oops4.dll
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.pdb
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.genruntimeconfig.cache
+C:\Users\Payal Swarnkar\source\repos\Oops4\Oops4\obj\Debug\net5.0\Oops4.csproj.AssemblyReference.cache

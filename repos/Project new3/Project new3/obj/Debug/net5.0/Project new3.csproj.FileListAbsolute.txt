@@ -1,0 +1,16 @@
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\bin\Debug\net5.0\Project new3.exe
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\bin\Debug\net5.0\Project new3.deps.json
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\bin\Debug\net5.0\Project new3.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\bin\Debug\net5.0\Project new3.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\bin\Debug\net5.0\Project new3.dll
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\bin\Debug\net5.0\ref\Project new3.dll
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\bin\Debug\net5.0\Project new3.pdb
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.dll
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\ref\Project new3.dll
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.pdb
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.genruntimeconfig.cache
+C:\Users\Payal Swarnkar\source\repos\Project new3\Project new3\obj\Debug\net5.0\Project new3.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\bin\Debug\net5.0\Hexadecimal.exe
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\bin\Debug\net5.0\Hexadecimal.deps.json
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\bin\Debug\net5.0\Hexadecimal.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\bin\Debug\net5.0\Hexadecimal.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\bin\Debug\net5.0\Hexadecimal.dll
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\bin\Debug\net5.0\ref\Hexadecimal.dll
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\bin\Debug\net5.0\Hexadecimal.pdb
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\Hexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\Hexadecimal.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\Hexadecimal.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\Hexadecimal.dll
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\ref\Hexadecimal.dll
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\Hexadecimal.pdb
+C:\Users\Payal Swarnkar\source\repos\Hexadecimal\Hexadecimal\obj\Debug\net5.0\Hexadecimal.genruntimeconfig.cache

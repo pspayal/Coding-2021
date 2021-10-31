@@ -1,0 +1,15 @@
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\Practice Characters and strings.exe
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\Practice Characters and strings.deps.json
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\Practice Characters and strings.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\Practice Characters and strings.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\Practice Characters and strings.dll
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\ref\Practice Characters and strings.dll
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\bin\Debug\net5.0\Practice Characters and strings.pdb
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\Practice Characters and strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\Practice Characters and strings.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\Practice Characters and strings.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\Practice Characters and strings.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\Practice Characters and strings.dll
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\ref\Practice Characters and strings.dll
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\Practice Characters and strings.pdb
+C:\Users\Payal Swarnkar\source\repos\Practice Characters and strings\Practice Characters and strings\obj\Debug\net5.0\Practice Characters and strings.genruntimeconfig.cache

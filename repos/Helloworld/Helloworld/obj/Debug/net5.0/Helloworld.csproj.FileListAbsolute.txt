@@ -1,0 +1,16 @@
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.exe
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.deps.json
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.json
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.dev.json
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.dll
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\bin\Debug\net5.0\ref\Helloworld.dll
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\bin\Debug\net5.0\Helloworld.pdb
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.csproj.AssemblyReference.cache
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfo.cs
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.dll
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\ref\Helloworld.dll
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.pdb
+C:\Users\Payal Swarnkar\source\repos\Helloworld\Helloworld\obj\Debug\net5.0\Helloworld.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange Variable value", "Exchange Variable value\Exchange Variable value.csproj", "{D398A733-70D3-4768-A2F5-64250690F8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D398A733-70D3-4768-A2F5-64250690F8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D398A733-70D3-4768-A2F5-64250690F8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D398A733-70D3-4768-A2F5-64250690F8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D398A733-70D3-4768-A2F5-64250690F8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF9D3CC-57A3-45B2-A386-2AD3E2D257D0}
+	EndGlobalSection
+EndGlobal
